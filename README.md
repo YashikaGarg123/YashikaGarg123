@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashikaGarg123
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning web developing
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on my upcoming project
 - 📫 How to reach me You can reach me through my email address
 
